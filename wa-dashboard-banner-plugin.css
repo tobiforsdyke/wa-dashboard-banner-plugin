@@ -1,0 +1,21 @@
+#welcome-panel {
+    min-height: 10em;
+    background-repeat: no-repeat;
+}
+
+.logo {
+  width: 170px;
+  height: 150px;
+  background-image: url(wa-icon.png);
+  min-height: 170px;
+  float: left;
+  background-repeat: no-repeat;
+}
+
+/* #welcome-panel {
+    background-image: url(seal.png);
+    min-height: 10em;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: -78px -87px;
+} */
